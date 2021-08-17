@@ -1,8 +1,8 @@
-# central-services-auth
+# auth-lib
 
-[![Git Commit](https://img.shields.io/github/last-commit/mojaloop/central-services-auth.svg?style=flat)](https://github.com/mojaloop/central-services-auth/commits/master)
-[![Git Releases](https://img.shields.io/github/release/mojaloop/central-services-auth.svg?style=flat)](https://github.com/mojaloop/central-services-auth/releases)
-[![CircleCI](https://circleci.com/gh/mojaloop/central-services-auth.svg?style=svg)](https://app.circleci.com/pipelines/github/mojaloop/central-services-auth)
+[![Git Commit](https://img.shields.io/github/last-commit/mojaloop/auth-lib.svg?style=flat)](https://github.com/mojaloop/auth-lib/commits/master)
+[![Git Releases](https://img.shields.io/github/release/mojaloop/auth-lib.svg?style=flat)](https://github.com/mojaloop/auth-lib/releases)
+[![CircleCI](https://circleci.com/gh/mojaloop/auth-lib.svg?style=svg)](https://app.circleci.com/pipelines/github/mojaloop/auth-lib)
 
 Share authentication and authorization code for central services
 

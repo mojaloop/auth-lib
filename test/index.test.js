@@ -37,8 +37,8 @@ Test('Auth module', moduleTest => {
     registerTest.end()
   })
 
-  moduleTest.test('name should be central-services-auth', test => {
-    test.equal(AuthModule.plugin.name, 'central-services-auth')
+  moduleTest.test('name should be auth-lib', test => {
+    test.equal(AuthModule.plugin.name, 'auth-lib')
     test.end()
   })
 
